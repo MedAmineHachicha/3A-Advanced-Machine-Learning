@@ -1,3 +1,3 @@
 ## 3A-Advanced-Machine-Learning
 
-This repository contains my work for the Advanced Machine Learning Labs at CentraleSupelec
+This repository contains my work for the Advanced Machine Learning course Labs at CentraleSupelec
